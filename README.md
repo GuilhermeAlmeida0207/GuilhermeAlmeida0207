@@ -22,10 +22,4 @@ Vamos nos conectar! Você pode me encontrar nas seguintes plataformas:
 [![Instagram Principal](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white )](https://www.instagram.com/gui.almd__/ )
 [![Instagram Dev](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white )](https://www.instagram.com/guidev._/ )
 
-## GitHub Snake 🐍
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeAlmeida0207/GuilhermeAlmeida0207/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
-</p>
 
